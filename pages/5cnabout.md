@@ -72,7 +72,7 @@ permalink: /cnabout/
 师友：[刘云辉教授](http://www.mae.cuhk.edu.hk/people/list.php?name=yhliu) \|
 [David](http://www.mypolyuweb.hk/dnavar/) \| [鲁豫杰](http://www.mae.cuhk.edu.hk/~yjlu/) \| [王泽睿](http://www.wangzerui.com)
 
-网站设计：[高浩阳](http://gaohaoyang.github.io/) \| [谢益辉](http://yihui.name/cn/)
+网站设计：[谢益辉](http://yihui.name/cn/)
 
 收藏：[Type is Beautiful](http://www.typeisbeautiful.com/) \| [打喷嚏](https://dapenti.com/)
 

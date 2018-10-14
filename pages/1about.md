@@ -61,4 +61,4 @@ Conference Papers
 
 Links to my friends: [David](http://www.mypolyuweb.hk/dnavar/) \| [LU Yujie](http://www.mae.cuhk.edu.hk/~yjlu/) \| [WANG Zerui](http://www.wangzerui.com)
 
-This site is built with [Jekyll](http://jekyllrb.com/) hosted on Github, and the blog structure is based on the template [GAO Haoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io).
+This site is built with [Jekyll](http://jekyllrb.com/) hosted on Github.
