@@ -23,5 +23,5 @@ If you want to use this blog template, please **give a star at the repository**.
 --- | ---
 2018.05 | Upgrade to HTTPS support thanks to Github Pages' [new feature](https://blog.github.com/2018-05-01-github-pages-custom-domains-https/)
 2015.07 | Launch of my personal domain [fzheng.me](http://fzheng.me).
-2015.07 | Foundation of the blog structure. Also use Github Pages. Learn a lot from Haoyang's [template](https://github.com/Gaohaoyang/gaohaoyang.github.io).
+2015.07 | Foundation of the blog structure. Also use Github Pages.
 2015.03	| Foundation of my [homepage](https://izhengfan.github.io) maintained in Github Pages.
